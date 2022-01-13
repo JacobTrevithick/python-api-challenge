@@ -17,7 +17,7 @@ The below are visualizations created using the weather data gathered. Further in
 **Maximum City Temperature vs. Latitude:**
 
 
-![Max City Temp vs. Lat](https://github.com/JacobTrevithick/Climate-Change-Visualizations/blob/main/Images/Title_Map.png)
+![Max City Temp vs. Lat]()
 
 
 ## Getting Started
